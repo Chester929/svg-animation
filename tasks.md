@@ -10,7 +10,7 @@ Chester
 Mirek
 =====
 * analýza softwaru
-** Tupi
-** Synfig
-** CreatureHouse LivingCels
-** LibreOffice Impress
+	* Tupi
+	* Synfig
+	* CreatureHouse LivingCels
+	* LibreOffice Impress
