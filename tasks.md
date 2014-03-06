@@ -1,8 +1,10 @@
 Všichni
 =======
+* přečíst specifikace pro SMIL a SVG :)
 
 Honza
 =====
+* analýza adobe flashe
 
 Chester
 =======
