@@ -1,6 +1,8 @@
 Časování
 ========
-__fill__: určuje, jestli se animace po skončení zastaví na poslední hodnotě, nebo jestli zmizí
+__fill__: určuje, jestli se animace po skončení zastaví na poslední hodnotě, nebo jestli zmizí  
+__"keyTimes"__: seznam hodnot ovlivňující tempo animace (hodnoty od 0 do 1 určující časový bod v průběhu animace)  
+__"keySplines"__: souvisí s keyTimes; čtveřice hodnot (0 - 1) reprezentujících umístění kontrolních bodů křivky, která určuje tempo animace
 
 přechod (calcMode)
 --------
@@ -8,8 +10,6 @@ __diskrétní__: skočí se z jedné hodnoty na druhou bez přechodu
 __lineární__: přechod je založen na funkci vzniklé lineární interpolací   
 __"paced"__: přechod stálé rychlosti   
 __křivkou__: animace je definována Bézierovou křivkou (viz keyTimes a keySplines)  
-__"keyTimes"__: seznam hodnot ovlivňující tempo animace (hodnoty od 0 do 1 určující časový bod v průběhu animace)  
-__"keySplines"__: souvisí s keyTimes; čtveřice hodnot (0 - 1) reprezentujících umístění kontrolních bodů křivky, která určuje tempo animace
 
 Aditivita
 ========
