@@ -2,7 +2,7 @@
 ========
 přechod (calcMode)
 --------
-__diskrétní__: skočí se z jedné hodnoty na druhou bez přechodu \\ 
+__diskrétní__: skočí se z jedné hodnoty na druhou bez přechodu   
 __lineární__: přechod je založen na funkci vzniklé lineární interpolací
 __"paced"__: přechod stálé rychlosti
 __křivkou__: animace je definována Bézierovou křivkou (viz keyTimes a keySplines)
