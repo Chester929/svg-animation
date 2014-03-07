@@ -1,5 +1,6 @@
 Časování
 ========
+__fill__: určuje, jestli se animace po skončení zastaví na poslední hodnotě, nebo jestli zmizí
 
 přechod (calcMode)
 --------
