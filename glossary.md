@@ -1,7 +1,7 @@
 Časování
 ========
-__fill__: určuje, jestli se animace po skončení zastaví na poslední hodnotě, nebo jestli zmizí  
-__syncbase__: označuje animaci pro synchronizaci (animace může začít současně s koncem nebo začátkem jiné animace)
+__"fill"__: určuje, jestli se animace po skončení zastaví na poslední hodnotě, nebo jestli zmizí  
+__"syncbase"__: označuje animaci pro synchronizaci (animace může začít současně s koncem nebo začátkem jiné animace)
 __"keyTimes"__: seznam hodnot ovlivňující tempo animace (hodnoty od 0 do 1 určující časový bod v průběhu animace)  
 __"keySplines"__: souvisí s keyTimes; čtveřice hodnot (0 - 1) reprezentujících umístění kontrolních bodů křivky, která určuje tempo animace
 
