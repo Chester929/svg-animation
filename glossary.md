@@ -2,8 +2,8 @@
 ========
 __"fill"__: určuje, jestli se animace po skončení zastaví na poslední hodnotě, nebo jestli zmizí  
 __"syncbase"__: označuje animaci pro synchronizaci (animace může začít současně s koncem nebo začátkem jiné animace)
-__"keyTimes"__: seznam hodnot ovlivňující tempo animace (hodnoty od 0 do 1 určující časový bod v průběhu animace)  
-__"keySplines"__: souvisí s keyTimes; čtveřice hodnot (0 - 1) reprezentujících umístění kontrolních bodů křivky, která určuje tempo animace
+__keyTimes__: seznam hodnot ovlivňující tempo animace (hodnoty od 0 do 1 určující časový bod v průběhu animace)  
+__keySplines__: souvisí s keyTimes; čtveřice hodnot (0 - 1) reprezentujících umístění kontrolních bodů křivky, která určuje tempo animace
 
 přechod (calcMode)
 --------
@@ -19,6 +19,7 @@ __"accumulate"__: při opakování neprobíhá animace od začátku, ale navazuj
 
 Pohyb (animateMotion)
 =====================
+__dráha__: křivka, po které se pohybuje animovaný objekt  
 __keyPoints__: seznam floatů mezi 0 a 1, určuje délku pohybu po určené dráze podle časů v keyTimes; seznam musí mít stejnou délku jako keyTimes
 
 Transformace (animateTransform)
