@@ -12,8 +12,8 @@ __"keySplines"__: souvisí s keyTimes; čtveřice hodnot (0 - 1) reprezentujíc�
 
 Aditivita
 ========
-__"additive"__: animace nenahrazuje předchozí animaci, ale pracuje s jejím výsledkem  
-__"accumulate"__: skočí se z jedné hodnoty na druhou bez přechodu   
+__"additive"__: animace nenahrazuje předchozí hodnoty atributů, ale staví na nich  
+__"accumulate"__: při opakování neprobíhá animace od začátku, ale navazuje na předchozí výsledek (výsledná hodnota se přičte k počáteční hodnotě)
 
 Pohyb (animateMotion)
 =====================
