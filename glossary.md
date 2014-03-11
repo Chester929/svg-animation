@@ -1,6 +1,6 @@
 Časování
 ========
-__"presentation time"__: označuje bod v čase vzhledem k začátku části dokumentu
+__"presentation time"__: označuje bod v čase vzhledem k začátku části dokumentu  
 __"fill"__: určuje, jestli se animace po skončení zastaví na poslední hodnotě, nebo jestli zmizí  
 __"syncbase"__: označuje animaci pro synchronizaci (animace může začít současně s koncem nebo začátkem jiné animace)
 __keyTimes__: seznam hodnot týkající se daného okamžiku animace - ovlivňují průběh animace (hodnoty od 0 do 1 určující časový bod)  
