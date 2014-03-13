@@ -2,7 +2,6 @@
 ========
 * na rozdíl od SMIL a tudíž i SVG animací, flash animace používají keyframes jakožto hlavní body animace, zobrazené na časové ose  
 * délka animace je tedy určena počtem framů  
-* keyframes mají úlohu jako keyTimes v SVG  
 * v každém framu můžeme vidět, jak bude stav animace v tomto bodě vypadat a případně upravit změnou na keyframe a nastavením nějaké hodnoty  
 * tempo animace je možné nastavit pomocí křivky pro náběh/doběh  
 
