@@ -9,6 +9,8 @@ Honza
 Chester
 =======
 
+* Graficky navrh pro uzivatelske rozhrani
+
 Mirek
 =====
 * analýza softwaru
