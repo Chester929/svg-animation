@@ -25,6 +25,14 @@ __keyPoints__: seznam floatů mezi 0 a 1, určuje délku pohybu po určené drá
 
 Transformace (animateTransform)
 ===============================
+__viewport__: výřez, v kterém se nachází SVG obrázek; v našem případě stránka
+__původní soustava souřadnic__: soustava souřadnic, jejíž počátek je v počátku viewportu
+__nová soustava souřadnic__: soustava souřadnic vzniklá transformací původní soustavy souřadnic
+__trasformační matice__: matice ve tvaru
+a c e
+b d f
+0 0 1
+, kterou když přenásobíme souřadnicemi nové soustavy souřadnic [x y 1]T zprava, tak získáme souřadnice původní soustavy souřadnic
 
 Změna barvy (animateColor)
 ==========================
