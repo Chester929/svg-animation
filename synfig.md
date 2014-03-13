@@ -1,5 +1,5 @@
 * stejně jako Flash užívá "keyFrames"
 * animace je vyznačena na časové ose
 * umožňuje několik možných "rychlostí" animace, 
-* je znázorněno jaké hodnoty jsou naanimované a jakou rychlostí
+* je znázorněno jaké hodnoty jsou naanimované a jakým způsobem
 * u animací, které se nedají naanimovat, dojde ke změně skokem o frame dál od předchozího keyframeu
